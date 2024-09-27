@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='subdomainradar',
-    version='1.0.0',
+    version='1.0.1',
     author='Alexandre Vandamme',
     author_email='alexandrevandammepro@gmail.com',
     description='Python wrapper for SubdomainRadar.io API',
